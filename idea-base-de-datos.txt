@@ -1,0 +1,12 @@
+paqueteEstructuras:
+crear un arbol por los datos que ingrese a la base.
+
+paqueteObjetos: 
+el usuario envia el string con el nombre, tipo, largo de los datos,
+habra un metodo que separe el string, y en los casos de la clase esquema 
+tomara el tipo de dato que ingresara a la base, crea una instancia de la clase depende del tipo.
+
+
+paqueteXML:
+en la clase XMLdatos, con el metodo añadirDatos, recibe una lista con los datos a ingresar.
+tomara cada nodo y lo inserta en el xml y en la estructura utilizada. 
